@@ -17,33 +17,39 @@ body {
 }
 
 h1{ 
-    font-size: 40px;
+    font: 40px Verdana;
 }
+
 .instructions {
     background-color: yellow;
     color: rgb(2, 2, 2);
     text-align: left;
     margin: 20px;
     padding: 10px;
+    font: 20px Verdana;
   }
   h3 {
-    font-size: 18px;
+    font: 18px Verdana;
     text-align: center;
   }
+
   .third {
     margin: 20px;
     padding: 10px;
   }
+
   h2 {
     font-size: 24px;
     text-align: center;
   }
+
   #gScore {
     background-color: rgb(52, 199, 52);
     color: rgb(2, 1, 1);
     text-align: center;
     padding: 15px;
   }
+
   #wScore {
     background-color: purple;
     color: black;
@@ -51,6 +57,7 @@ h1{
     padding: 5px;
     margin-top: 5px;
   }
+
   #lScore {
     background-color: orange;
     color: black;
@@ -58,14 +65,17 @@ h1{
     padding: 5px;
     margin-bottom: 5px;
   }
+
   .crystals {
     margin: 20px;
     padding: 10px;
   }
+
   .btn {
     height: 150px;
     width: 150px;
   }
+
   #uScore {
     background-color: red;
     color: white;
@@ -74,3 +84,4 @@ h1{
     text-align: center;
   }
   
+ 
