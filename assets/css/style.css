@@ -1,0 +1,76 @@
+body {
+    background: url("../images/gem-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    max-width: 90%;
+}
+
+.header {
+    background-color: rgb(17, 0, 255);
+    color: rgb(252, 1, 1);
+    text-align: center;
+    margin: 20px;
+    padding: 10px
+}
+
+h1{ 
+    font-size: 40px;
+}
+.instructions {
+    background-color: yellow;
+    color: rgb(2, 2, 2);
+    text-align: left;
+    margin: 20px;
+    padding: 10px;
+  }
+  h3 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .third {
+    margin: 20px;
+    padding: 10px;
+  }
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+  #gScore {
+    background-color: rgb(52, 199, 52);
+    color: rgb(2, 1, 1);
+    text-align: center;
+    padding: 15px;
+  }
+  #wScore {
+    background-color: purple;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  #lScore {
+    background-color: orange;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+  .crystals {
+    margin: 20px;
+    padding: 10px;
+  }
+  .btn {
+    height: 150px;
+    width: 150px;
+  }
+  #uScore {
+    background-color: red;
+    color: white;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+  }
+  
